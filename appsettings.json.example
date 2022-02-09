@@ -1,0 +1,9 @@
+{
+  "Settings": {
+    "TelegramApiKey": "",
+    "TelegramChatId": "",
+    "Bearer": "",
+    "Categories": ["", " ", ""],
+    "Engagement": ""
+  }
+}
