@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "upwork-scraper", "upwork-scraper\upwork-scraper.csproj", "{242F05B9-6492-4CE4-9946-2D4546397376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{242F05B9-6492-4CE4-9946-2D4546397376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242F05B9-6492-4CE4-9946-2D4546397376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242F05B9-6492-4CE4-9946-2D4546397376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242F05B9-6492-4CE4-9946-2D4546397376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
